@@ -1,8 +1,8 @@
-# 3 Amigos Checkpoint
+# 3 Amigos Check-in
 
 ## 🧭 Formål
 
-Vi bruger **3 Amigos Checkpoint** til at
+Vi bruger **3 Amigos Check-in** til at
 
 - sikre fremdrift
 - øge kvaliteten
