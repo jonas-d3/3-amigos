@@ -25,7 +25,7 @@ Det er en struktureret samtale mellem UX, UI og Dev.
 
 - Processen kan bruges på to måder:
   - Når en Amigo mener, at et PBI er klar til næste fase
-  - Når en Amigo har brug for sparring / at validering
+  - Når en Amigo har brug for sparring eller validering
 - Det er ikke et krav, at et PBI skal være “færdigt”, før det tages op
 
 - For hvert PBI spørger vi:
@@ -37,6 +37,10 @@ Det er en struktureret samtale mellem UX, UI og Dev.
 - Output er altid en af:
   - ✅ Klar til næste fase
   - ❌ Ikke klar endnu — med konkret næste skridt og ansvarlig
+- HUSK: et PBI kan af historiske årsager være i en fase UDEN af tidligere faser er gennemgået.
+  - Vær konstruktiv
+  - Vær åben for feedback
+  - Hold en god tone
 - Følg nedenstående skabeloner til at strukturere samtalen omkring hvert PBI
 
 ---
@@ -135,7 +139,7 @@ Gøre design klar til udvikling
 
 - Er der noget vi stadig er i tvivl om?
 
-## ✅ Klar når:
+## ✅ Klar til næste fase når:
 
 - Ingen åbne spørgsmål
 - Dev kan bygge uden gætværk
@@ -183,10 +187,3 @@ Sikre at implementeringen matcher intentionen
 - Code Review oprettet i Test kanalen
 
 ---
-
-# ⚠️ Principper (Guidelines)
-
-- Det er en samtale, ikke en checklist
-- Fokus på fremdrift, ikke perfektion
-- "Godt nok til næste step" > færdigt
-- Ingen item rykker videre uden fælles forståelse
