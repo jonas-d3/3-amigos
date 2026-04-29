@@ -60,5 +60,3 @@ Afklare:
 - Samtale > proces
 - Godt nok > perfekt
 - Ingen rykker videre uden fælles forståelse
-
-Se evt [QUICK.md]

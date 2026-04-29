@@ -187,3 +187,5 @@ Sikre at implementeringen matcher intentionen
 - Code Review oprettet i Test kanalen
 
 ---
+
+Se evt [QUICK.md]
