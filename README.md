@@ -188,4 +188,4 @@ Sikre at implementeringen matcher intentionen
 
 ---
 
-Se evt [QUICK.md]
+Se evt [Quick Version](QUICK.md)
